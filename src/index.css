@@ -1,8 +1,4 @@
-/*
-=============== 
-Variables
-===============
-*/
+
 
 :root {
   /* dark shades of primary color*/
@@ -44,11 +40,7 @@ Variables
   --max-width: 1170px;
   --fixed-width: 620px;
 }
-/*
-=============== 
-Global Styles
-===============
-*/
+
 
 *,
 ::after,
